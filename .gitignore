@@ -1,0 +1,58 @@
+# ESP-IDF
+firmware/build/
+firmware/managed_components/
+firmware/sdkconfig.old
+
+# Editores
+.vscode/
+.devcontainer/
+.clangd
+.cache/
+
+# KiCad
+*-bak
+*.kicad_prl
+fp-info-cache
+*-backups/
+_autosave-*
+\#auto_saved_files#
+*.lck
+
+# Audio original (licencias de terceros)
+*.wav
+*.mp3
+*.flac
+
+# Instrumentos fuera del repositorio: solo se publican piano (Salamander) y guitarra
+firmware/main/notas/flauta/
+firmware/main/notas/violin/
+firmware/main/notas/OndasBasicas/
+
+# Generador de wavetables: grabaciones y salidas (.h, estadísticas, gráficos).
+# Los .h que usa el firmware ya están en firmware/main/notas/
+tools/wavetable_generator_octave/notas/
+
+# Informe del proyecto (no se publica)
+docs/informe/
+
+# Material de Mutopia y canciones de prueba (no se publican)
+sd_card/
+tools/midi_processor_colab/midi_ejemplos/
+
+# Comprimidos
+*.zip
+*.7z
+*.rar
+
+# Python / Colab
+__pycache__/
+.ipynb_checkpoints/
+
+# Octave / MATLAB
+octave-workspace
+*.asv
+
+# Sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store

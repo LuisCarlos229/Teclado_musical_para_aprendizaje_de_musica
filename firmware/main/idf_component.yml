@@ -1,0 +1,6 @@
+dependencies:
+  # Versión mínima de ESP-IDF con la que compila el proyecto
+  idf: ">=5.0"
+
+  # Tira LED WS2812B
+  espressif/led_strip: "^3.0.0"

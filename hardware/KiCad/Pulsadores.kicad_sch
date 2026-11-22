@@ -1,0 +1,16 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "3a174d42-7493-4f42-af0b-42d83cd0e2f7")
+	(paper "A4")
+	(title_block
+		(title "Teclado musical para aprendizaje de música")
+		(date "2026-06-22")
+		(rev "1")
+		(company "UNaM")
+		(comment 1 "Luis Carlos Hubner (luiscarloshubner.fio@gmail.com)")
+		(comment 2 "Matias Emanuel Richart (richartmatias14@gmail.com)")
+	)
+	(lib_symbols)
+)
