@@ -127,7 +127,7 @@ El proyecto KiCad, el diagrama en bloques y la lista de materiales están en [`h
 
 ## Autores
 
-- Luis Carlos Hübner – [@LuisCarlos229](https://github.com/LuisCarlos229)
+- Luis Carlos Hubner – [@LuisCarlos229](https://github.com/LuisCarlos229)
 - Matias Emanuel Richart - [@MatiasRichart](https://github.com/MatiasRichart)
 
 Cátedra de Proyecto Electrónico – FIO, UNaM.
